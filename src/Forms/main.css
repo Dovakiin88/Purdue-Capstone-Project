@@ -1,0 +1,16 @@
+input[type='number'] {
+    width: 400px;
+}
+
+input[type='text'] {
+    width: 400px
+}
+
+input[type='email'] {
+    width: 400px
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+}
